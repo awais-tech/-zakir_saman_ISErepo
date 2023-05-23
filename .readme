@@ -1,0 +1,29 @@
+# Weather Information Code
+ 
+ This repository contains two Python code snippets related to weather information.
+ 
+ ## Season Finder
+ 
+ The `season_finder.py` file contains a function `find_season(country, month)` that determines the season of the year based on the given country and month. It utilizes a predefined set of seasons for different countries. The function returns the corresponding season and can display a graphics symbol representing the season.
+ 
+ To run the code:
+ 1. Open the `season_finder.py` file.
+ 2. Ensure the Python interpreter is installed on your system.
+ 3. Modify the code if necessary (e.g., add or modify country-season mappings).
+ 4. Run the file in a Python environment.
+ 5. Follow the prompts to enter the country and month.
+ 6. The program will display the season in text format and show a graphics symbol representing the season.
+ 
+ ## Temperature Comparison
+ 
+ The `temperature_comparison.py` file contains a function `compare_temperature(city, temperature, time)` that compares a given temperature reading with the average temperature of a city at a specific time (morning or evening). It uses predefined temperature data for different cities. The function determines whether the temperature is above or below the average and provides an appropriate message.
+ 
+ To run the code:
+ 1. Open the `temperature_comparison.py` file.
+ 2. Ensure the Python interpreter is installed on your system.
+ 3. Modify the code if necessary (e.g., add or modify city-temperature mappings).
+ 4. Run the file in a Python environment.
+ 5. Follow the prompts to enter the city, temperature, and time (morning or evening).
+ 6. The program will compare the temperature with the average and display a message indicating whether it's above, below, or close to the average.
+ 
+ Feel free to explore and modify the code to suit your needs.
