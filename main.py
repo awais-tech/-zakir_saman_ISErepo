@@ -127,7 +127,7 @@
              return 'Unknown'
      else:
          return 'Unknown'
- 
+ #  its main function
  
  def main():
      country_name = input("Enter the country: ")
@@ -148,7 +148,7 @@
      else:
          print("Unknown season")
  
- 
+ # main function calling
  if __name__ == '__main__':
      main()
 

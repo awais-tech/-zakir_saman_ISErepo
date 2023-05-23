@@ -34,7 +34,7 @@
      else:
          return 'Unknown City'
  
- 
+#  its main fucntion
  def main():
      city_name = input("Enter the city: ")
      temperature_reading = float(input("Enter the temperature: "))
@@ -44,8 +44,8 @@
  
      print(result)
  
- 
- if __name__ == '__main__':
+#  its main fucntion calling
+ if __name__ == '__main__':          
      main()
 
 
